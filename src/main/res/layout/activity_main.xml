@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/BU2"
+    tools:context=".MainActivity">
+
+    <AutoCompleteTextView
+        android:id="@+id/startTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/BU5"
+        android:hint="Adresa inceput" />
+
+    <AutoCompleteTextView
+        android:id="@+id/destinationTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/BU5"
+        android:hint="Adresa destinatie" />
+
+    <Button
+        android:id="@+id/filtersButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/BU5"
+        android:text="Filtre" />
+
+    <Button
+        android:id="@+id/searchButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/BU5"
+        android:text="Cauta" />
+
+</LinearLayout>

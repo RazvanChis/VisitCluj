@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">@color/sandstone</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="black">#1c1c1c</color>
+    <color name="black_three">#131313</color>
+    <color name="black_four">#272623</color>
+    <color name="black_with_opacity">#991c1c1c</color>
+    <color name="dirty_white">#dfdfdd</color>
+    <color name="dirty_white_with_opacity">#26dfdfdd</color>
+    <color name="camo_green">#39301c</color>
+    <color name="light_grey">#e4e1d6</color>
+    <color name="cool_grey">#a4aab3</color>
+    <color name="sandstone">#c9ad70</color>
+    <color name="warm_grey">#717171</color>
+    <color name="light_grey_three">#d2d0cc</color>
+    <color name="warm_grey_two">#959492</color>
+    <color name="cloudy_blue">#d4dbe4</color>
+    <color name="fawn">#cdb781</color>
+    <color name="purplish_grey">#656162</color>
+    <color name="purple_grey">#7e7c7d</color>
+    <color name="camo_green_two">#352e1e</color>
+    <color name="mocha">#937d4e</color>
+    <color name="cloudy_blue_51">#83d4dbe4</color>
+    <color name="sand">#e0c07a</color>
+    <color name="greyish_brown_two">#58554d</color>
+    <color name="white">#ffffff</color>
+    <color name="warm_grey_three">#8a8a8a</color>
+    <color name="pale_peach">#ffeabd</color>
+    <color name="greyish">#afa79e</color>
+    <color name="pale_peach_two">#ffe4a4</color>
+    <color name="black_five">#000000</color>
+    <color name="pinkish_grey">#ccc2b8</color>
+    <color name="greyish_two">#aaa299</color>
+    <color name="cloudy_blue_two">#d0d7e1</color>
+    <color name="warm_grey_four">#d0d7e1</color>
+    <color name="greyish_brown_three">#4a4740</color>
+    <color name="light_grey_two">#dfdfdd</color>
+    <color name="greyish_three">#bbbab9</color>
+    <color name="warm_grey_five">#948e85</color>
+    <color name="light_grey_five">#cbcac6</color>
+    <color name="black_seven">#121212</color>
+    <color name="red">#c70b06</color>
+</resources>

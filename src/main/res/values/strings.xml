@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Visit Cluj</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Login screen -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Parola</string>
+    <string name="login_button_text">Logare</string>
+    <string name="create_account_button_text">Creare cont nou</string>
+
+    <!-- Create new account screens-->
+    <string name="create_new_account_title">Creare cont nou</string>
+    <string name="create_new_account_hint">Creare cont nou</string>
+    <string name="create_my_account_hint">Creare cont nou</string>
+    <string name="personal_information_hint">Informatii personale</string>
+    <string name="first_name_hint">Nume</string>
+    <string name="last_name_hint">Prenume</string>
+    <string name="retype_password_hint">Reintroducere parola</string>
+    <string name="account_created_successfully">Contul a fost creat cu succes!</string>
+    <string name="phone_hint">Numar telefon</string>
+
+</resources>
